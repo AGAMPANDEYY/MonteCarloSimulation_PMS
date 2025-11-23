@@ -1,6 +1,10 @@
 # Monte Carlo Portfolio Simulation
 
 This repository contains a simple Monte Carlo–based portfolio simulation that explores the risk–return trade-off for a small equity portfolio using daily price data.
+| **Share Price Plot** | **Monte Carlo Simulation** |
+|----------------------|----------------------------|
+| <img src="assets/plot.jpg" width="95%"> | <img src="assets/mc.jpg" width="95%"> |
+
 
 The example portfolio uses five Indian stocks: **Tata**, **Wipro**, **Yes Bank**, **Reliance**, and **JSW**. The goal is to estimate portfolio return, volatility, and Sharpe ratio for many randomly generated portfolios and highlight the portfolios with:
 
